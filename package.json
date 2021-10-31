@@ -1,0 +1,10 @@
+{
+  "name": "elmely",
+  "version": "1.0.0",
+  "description": "elmely",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-browser-sync": "*",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
